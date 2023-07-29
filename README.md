@@ -1,0 +1,2 @@
+# QDirStat
+`qdirstat .`
